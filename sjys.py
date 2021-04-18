@@ -1,7 +1,7 @@
 # coding: utf-8
 # author: zero205
 # desc: 随机延时，避免同时运行造成任务堵塞
-# license: https://github.com/zero205/JD
+# license: https://github.com/aidevjoe/JD
 
 print (u"执行随机延时，请耐心等待")
 import string
